@@ -17,8 +17,8 @@ function yourAnimal(cat) {
 
 
 const two = 2
-function add2(n) {
-  return n + two
+function add2(5) {
+  return 5 + two
 
   // Feel free to move things around!
 
