@@ -12,7 +12,7 @@ function yourAnimal(cat) {
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work+
 
-  return animal;
+  return yourAnimal;
 }
 
 
